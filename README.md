@@ -1,2 +1,2 @@
-# python_lesson_2
+# python_lesson_1
 coursepython lesson 1
